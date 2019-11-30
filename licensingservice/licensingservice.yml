@@ -13,4 +13,4 @@ redis.server: "redis"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
 test.variable: "Kaloyan"
-message: Mura, Zdravec, Rousse, Bulgaria
+message: door B, Mura, Zdravec, Rousse, Bulgaria
